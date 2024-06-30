@@ -1,0 +1,43 @@
+.music {
+  width: 270px;
+  height: 190px;
+  background-color: #e3f2fd;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+/* heading for music */
+h3 {
+  margin: 1px;
+}
+
+.music #song1 {
+  padding: 0;
+}
+
+ul {
+  width: 100%;
+  padding: 0px;
+  list-style: none;
+}
+
+li {
+  padding: 11px 0px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.active {
+  padding-left: 5px;
+  position: relative;
+  background-color: rgb(55, 150, 220);
+  color: white;
+}
+
+/* Arrow sign after list item */
+.active::after {
+  position: absolute;
+  content: '>';
+  right: 2px;
+}
