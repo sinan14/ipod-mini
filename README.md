@@ -8,7 +8,6 @@ This is a Mini Ipod App Project which is built using React, CSS, Javascript. It 
 
 ![ipod-image](https://github.com/sinan14/ipod-mini/assets/81897917/43222b06-f30d-40bd-8ee1-8c4f8fb06701)
 
-
 ### 𝐔𝐬𝐞𝐫 𝐒𝐭𝐨𝐫𝐢𝐞𝐬
 
 - Users should be able to access the features like Now Playing, Music, Games, Settings, etc. in the iPod.
@@ -72,4 +71,3 @@ This is a Mini Ipod App Project which is built using React, CSS, Javascript. It 
 - Integrated Development Environment: VSCode
   <br/>
   <br/>
-# ipod-mini
